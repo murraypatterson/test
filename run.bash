@@ -1,3 +1,5 @@
 #!/bin/bash
 
-pip install graphviz
+pip3 install graphviz
+
+python3 hello.py

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3
+pip3 install graphviz
